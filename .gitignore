@@ -1,3 +1,5 @@
 packages/
-Compiladores Etapa E1/bin/
-Compiladores Etapa E1/obj/
+bin/
+obj/
+Debug/
+Release/
