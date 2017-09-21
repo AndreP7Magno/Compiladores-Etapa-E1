@@ -1,0 +1,15 @@
+C:\Users\Pichau\Documents\Visual Studio 2013\Projects\Compiladores Etapa E1\Compiladores Etapa E1\bin\Debug\Compiladores Etapa E1.exe.config
+C:\Users\Pichau\Documents\Visual Studio 2013\Projects\Compiladores Etapa E1\Compiladores Etapa E1\bin\Debug\Compiladores Etapa E1.exe
+C:\Users\Pichau\Documents\Visual Studio 2013\Projects\Compiladores Etapa E1\Compiladores Etapa E1\bin\Debug\Compiladores Etapa E1.pdb
+C:\Users\Pichau\Documents\Visual Studio 2013\Projects\Compiladores Etapa E1\Compiladores Etapa E1\bin\Debug\Antlr4.Runtime.dll
+C:\Users\Pichau\Documents\Visual Studio 2013\Projects\Compiladores Etapa E1\Compiladores Etapa E1\bin\Debug\Antlr4.Runtime.xml
+C:\Users\Pichau\Documents\Visual Studio 2013\Projects\Compiladores Etapa E1\Compiladores Etapa E1\obj\Debug\Compiladores Etapa E1.csprojResolveAssemblyReference.cache
+C:\Users\Pichau\Documents\Visual Studio 2013\Projects\Compiladores Etapa E1\Compiladores Etapa E1\obj\Debug\GramaticaLexer.cs
+C:\Users\Pichau\Documents\Visual Studio 2013\Projects\Compiladores Etapa E1\Compiladores Etapa E1\obj\Debug\GramaticaParser.cs
+C:\Users\Pichau\Documents\Visual Studio 2013\Projects\Compiladores Etapa E1\Compiladores Etapa E1\obj\Debug\GramaticaListener.cs
+C:\Users\Pichau\Documents\Visual Studio 2013\Projects\Compiladores Etapa E1\Compiladores Etapa E1\obj\Debug\GramaticaBaseListener.cs
+C:\Users\Pichau\Documents\Visual Studio 2013\Projects\Compiladores Etapa E1\Compiladores Etapa E1\obj\Debug\GramaticaVisitor.cs
+C:\Users\Pichau\Documents\Visual Studio 2013\Projects\Compiladores Etapa E1\Compiladores Etapa E1\obj\Debug\GramaticaBaseVisitor.cs
+C:\Users\Pichau\Documents\Visual Studio 2013\Projects\Compiladores Etapa E1\Compiladores Etapa E1\obj\Debug\Compiladores Etapa E1.csproj.Antlr4GeneratedCodeFileListAbsolute.txt
+C:\Users\Pichau\Documents\Visual Studio 2013\Projects\Compiladores Etapa E1\Compiladores Etapa E1\obj\Debug\Compiladores Etapa E1.exe
+C:\Users\Pichau\Documents\Visual Studio 2013\Projects\Compiladores Etapa E1\Compiladores Etapa E1\obj\Debug\Compiladores Etapa E1.pdb
